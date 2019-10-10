@@ -11,8 +11,8 @@ def getabuyunProxy():
     proxyPort = "9020"
 
     # 代理隧道验证信息
-    proxyUser = "H258SLK39715B6ZD"
-    proxyPass = "80415F775447BFD5"
+    proxyUser = "H258SLK397"
+    proxyPass = "80415F775"
     proxyMeta = "http://%(user)s:%(pass)s@%(host)s:%(port)s" % {
         "host": proxyHost,
         "port": proxyPort,
