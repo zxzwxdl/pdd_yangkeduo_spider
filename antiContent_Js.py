@@ -1,3 +1,5 @@
+# -*- coding: gbk -*-
+
 js = r'''
 
 var encrypt;
